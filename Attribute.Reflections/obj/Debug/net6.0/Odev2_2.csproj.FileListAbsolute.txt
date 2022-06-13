@@ -1,0 +1,15 @@
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\bin\Debug\net6.0\Odev2_2.exe
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\bin\Debug\net6.0\Odev2_2.deps.json
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\bin\Debug\net6.0\Odev2_2.runtimeconfig.json
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\bin\Debug\net6.0\Odev2_2.dll
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\bin\Debug\net6.0\Odev2_2.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.dll
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\refint\Odev2_2.dll
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\Odev2_2.genruntimeconfig.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\Attribute.Reflections\obj\Debug\net6.0\ref\Odev2_2.dll

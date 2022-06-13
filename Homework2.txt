@@ -1,0 +1,20 @@
+ 2. Hafta Ödev 1
+
+----Extension Geliþtirin
+
+Datetime tipine bir extension geliþtirin.
+Verilen Datetime ýn o anki tarihe ne kadar yakýn olduðunu text olarak dönsün.
+Örn: var date = Datetime.Now(); Console.Writeline(date.Ago()); --- 2 gün 3 saat 4 dakika önce
+
+----Attribute ve Reflection Kullanýmý
+
+Amaç veritabaný tablosu olacak þekilde bir mapping iþlemi yapýlacak. Db tablosuna karþýlýk bir class gelecek ve oluþturulan bu class dan attributeler yardýmý ile veritabaný tablosunu oluþturucak script çýkarýlacaktýr. Burada sql verinin doðruluðu önemli deðildir.tablo adý:Öðrenci --- kolonlarý id tipi int zorunlu gibi bir çýktý yeterli olacaktýr.
+iki tane attribute geliþtirin. Biri Table diðeri Column
+Table, class üzerine tanýmlanabilsin ve parametre olarak ad (string deðer) alabilsin. Türkçe, özel karakterler içermesin
+Column, property ler üzerine tanýmlansýn, parametre olarak ad, tip ve zorunluluk deðeri alsýn.
+Oluþturulan class dan scripti çýkarak kodu yazýn
+
+----SOLID kavramý
+
+Dependency inversion prensibini, interface segregation ile birlikte kullanýn ve .net in kendi dependency injection frameworkü ile basit bir örnek yapýn.
+Kodun çalýþabilirliði deðil daha çok kullanýmý, tasarýmý önemlidir.

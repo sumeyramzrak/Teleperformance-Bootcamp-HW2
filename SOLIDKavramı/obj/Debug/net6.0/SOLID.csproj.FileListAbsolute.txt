@@ -1,0 +1,6 @@
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\SOLIDKavramı\obj\Debug\net6.0\SOLID.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\SOLIDKavramı\obj\Debug\net6.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\SOLIDKavramı\obj\Debug\net6.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\SOLIDKavramı\obj\Debug\net6.0\SOLID.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\SOLIDKavramı\obj\Debug\net6.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2\SOLIDKavramı\obj\Debug\net6.0\SOLID.MvcApplicationPartsAssemblyInfo.cache
